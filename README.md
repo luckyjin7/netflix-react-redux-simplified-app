@@ -2,7 +2,7 @@
 
 This project is developed by [React](https://github.com/facebook/create-react-app) and [Redux](https://github.com/reduxjs/redux).
 
-### To Access the application in your local enviroment:
+### To Access the application in your local environment:
 
 ### `npm start`
 
